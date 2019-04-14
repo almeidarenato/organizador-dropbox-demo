@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Organize Arquivos Demo</title> 
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
+    <link href='style.css' rel="stylesheet"></style>
+</head>
+<body>
+
+    <header>Organize Arquivos - Demo 
+        <form class="root-path-wrap js-root-path__form">
+            <input name="root-path" id="root-path" class="pesquisa-campo"type="text" value='/'>
+            <button class='btn-pesquisar' type="submit">Pesquisar</button>
+        </form>
+    </header>
+    <section class="funcao-principal">
+      <div class="tooltip">
+        <span class="tooltiptext">Tooltip text</span>
+       <button type="button" class="organizar-btn">Organizar Arquivos</button>
+      </div>
+    </section>
+    <main><ul class="dbx-list js-file-list">Loading...</ul></main>
+    <footer><div class="loading js-loading">Loading...</div></footer>
+    <script src='bundle.js'></script>
+</body>
+</html>
