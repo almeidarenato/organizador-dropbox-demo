@@ -173,19 +173,4 @@ body {
 
   }
   
-  /* Tooltip text */
-  .tooltip .tooltiptext {
-    visibility: hidden;
-    width: 120px;
-    background-color: black;
-    color: #fff;
-    text-align: center;
-    padding: 5px 0;
-    border-radius: 6px;
-    z-index: 1;
-    top: -5px;
-    left: 105%;
-  }
-  .tooltip:hover .tooltiptext {
-    visibility: visible;
-  }
+ 
