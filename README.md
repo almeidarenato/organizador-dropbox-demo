@@ -1,7 +1,7 @@
 # Organizador de Arquivos com Api Dropbox
 
 
-![imagem da aplicação](https://imgur.com/K1xoQx9.jpg)
+![imagem da aplicação](https://imgur.com/hgj57zn)
 
 Aplicação simples feita com a api do dropbox com um tutorial da documentação.
 
