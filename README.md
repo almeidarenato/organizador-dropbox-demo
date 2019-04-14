@@ -21,7 +21,7 @@ http://dropbox.github.io/dropbox-sdk-js/
 Utilizei o webpack para converter o ECMAScript (com Babel) em js compatível  com navegadores antigos e utilizar o import da do arquivo Dropbox.
 https://webpack.js.org/
 
-# Access Token
+# Access Token:
 
 Você também vai precisar de um access token fornecida pela dropbox. 
 Basta criar uma conta em https://www.dropbox.com/developers e clicar em "Create App"
